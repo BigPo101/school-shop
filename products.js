@@ -1,10 +1,10 @@
 const products = [
     {
         "id": 1,
-        "name":" LD01 LOUNGE CHAIR",
-        "price": 200,
-        "image": "images/1.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "name":"M&Ms",
+        "price": 2,
+        "image": "images/mandms.png",
+        "description": "Choose from Regular, Caramel, Peanut, and Peanut Butter M&Ms"
     },
     {
         "id": 2,
