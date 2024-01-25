@@ -8,10 +8,10 @@ const products = [
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
-        "price": 250,
-        "image": "images/2.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "name":"Skittles",
+        "price": 2,
+        "image": "images/skittles.png",
+        "description": "Choose from Regular, Sour, and Wild Berry Skittles"
     },
     {
         "id": 3,
